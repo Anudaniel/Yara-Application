@@ -156,6 +156,7 @@ h2, h3, h4, h5, h6 {
 
 .testimonials-img {
     width: 30%;
+    height: 30%;
     border-radius: 50%;
     border: 5px solid #fff;
     margin: 0 0 8%;
